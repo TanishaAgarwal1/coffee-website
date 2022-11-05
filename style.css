@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(99, 71, 71);
+    color: aliceblue;
+}
+a{
+ text-decoration: none;
+ color: aliceblue;
+    
+}
+#head{
+    height: 150px;
+    width: 1500px;
+    display: flex;
+    position: relative;
+    
+}
+#navbar{
+    position: sticky ;
+    top: 30px;
+}
+div ol{
+    list-style: none;
+    display: flex;
+    padding-right: 30px;
+    justify-content: center;
+}
+.nav-items{
+    margin:0px 20px;
+    
+}
+#search{
+    position: relative;
+    bottom: 8.5vh;
+    left: 90vw;
+}
+#cart{
+    position: relative;
+    bottom: 7.5vh;
+    left: 92vw;
+}
+
+
+
+#a{
+    position: fixed;
+    top: 20px;
+    left: 5px;
+}
+#b{
+   
+    position: fixed;
+    left: 450px;
+    top:20px
+    
+}
+#c{
+    position: fixed;
+    left: 500px;
+    top:20px
+}
+#d{
+    position: fixed;
+    left: 1000px;
+    top: 20px;
+}
+#e{
+    position: fixed;
+    left: 1040px;
+    top: 20px;
+}
+hr{
+    
+    color: aliceblue;
+    
+}
+#mid{
+    display: flex;
+    position: relative;
+
+}
+#banner{
+    margin-right: 30px;
+}
+#theory{
+    align-self: center;
+}
+#learn{
+    background-color: orange;
+    color: aliceblue;
+    border: 2px solid orange;
+    height: 30px;
+}
+span{
+    color: orange;
+}
+#learn:hover{
+    background-color: white;
+    color: rgb(255, 0, 38);
+    
+}
+#pro{
+    display: flex;
+    flex-wrap: wrap;
+}
+.info{
+    display: block;
+}
+.price >span{
+    text-decoration: line-through;
+}

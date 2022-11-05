@@ -1,0 +1,24 @@
+
+        
+.special2{color: rgb(103, 5, 54);
+    font-size: 40px;}
+#special{color: rgb(153, 13, 240);
+font-size: 25px;}
+ul{color: chartreuse; font-weight: 100; font-size: 30px;}
+
+#new{background-color: rgb(244, 9, 99);}
+#happy{color: darkorange;
+font-size: 30px;
+}
+/* .special2{background-image:url('https://www.w3schools.com/css/img_5terre.jpg') ;}*/
+section{
+    background-color: blanchedalmond;
+    text-align: center;
+    margin: auto;
+    min-height: 6000px;
+    width: 800px;
+    border: 8px dotted blue;
+
+
+    
+}
